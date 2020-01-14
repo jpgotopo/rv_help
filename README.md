@@ -1,7 +1,6 @@
 # rv_help
 
-A new Flutter project.
-
+Aplicativo de Aaistencia para el Área de Monitoreo para conocer las coordenadas de los posibles sitios de Asistencia al Cliente en casos de no estar transmitiendo una unidad específica. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
