@@ -1,0 +1,62 @@
+[
+    {
+      "Lugar": "Corcona",
+      "Latitud": -11.91122,
+      "Longitud": -76.582866,
+      "Dirección": ""
+    },
+    {
+      "Lugar": "Huancayo Gran Terminal",
+      "Latitud": -12.048649,
+      "Longitud": -75.236043,
+      "Dirección": ""
+    },
+    {
+      "Lugar": "GM Internacional LIMA",
+      "Latitud": -12.063277,
+      "Longitud": -77.031341,
+      "Dirección": "Av. 28 de Julio 1275"
+    },
+    {
+      "Lugar": "GM Internacional Huánuco",
+      "Latitud": -9.933724,
+      "Longitud": -76.242112,
+      "Dirección": ""
+    },
+    {
+      "Lugar": "Rey Tours -GM",
+      "Latitud": -9.92739,
+      "Longitud": -76.237767,
+      "Dirección": "Jr. 28 de Julio 125 - Huánuco"
+    },
+    {
+      "Lugar": "León de Huánuco - Base Lima",
+      "Latitud": -12.062797,
+      "Longitud": -77.027502,
+      "Dirección": ""
+    },
+    {
+      "Lugar": "Yerbateros",
+      "Latitud": -12.064391,
+      "Longitud": -76.995876,
+      "Dirección": ""
+    },
+    {
+      "Lugar": "Ambo",
+      "Latitud": -10.141335,
+      "Longitud": -76.19621,
+      "Dirección": ""
+    },
+    {
+      "Lugar": "La Variante",
+      "Latitud": -11.747759,
+      "Longitud": -77.14345,
+      "Dirección": ""
+    },
+    {
+      "Lugar": "Plaza Norte",
+      "Latitud": -12.005255,
+      "Longitud": -77.054951,
+      "Dirección": ""
+    }
+]
